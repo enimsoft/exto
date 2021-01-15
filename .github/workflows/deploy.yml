@@ -34,4 +34,4 @@ jobs:
         git config --global user.name 'pd-escher'
         git config --global user.email 'dhoolia.pranav@gmail.com'
         git commit -m "Automated Build"
-        git subtree push --prefix out origin gh-pages
+        git subtree push --force --prefix out origin gh-pages
