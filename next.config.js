@@ -2,7 +2,8 @@ const path = require('path');
 const sourcebit = require('sourcebit');
 
 const sourcebitConfig = require('./sourcebit.js');
-
+const isProd = (process.env.NODE_ENV || 'production') === 'production'
+const assetPrefix = isProd ? '/plugsource' : ''
 
 sourcebit.fetch(sourcebitConfig);
 
@@ -30,6 +31,15 @@ module.exports = {
         // function to update the content on the page without refreshing the
         // whole page
         config.plugins.push(new webpack.WatchIgnorePlugin([/\/content\//]));
+        
+        // for gh-pages
+        config.plugins.push(
+          new webpack.DefinePlugin({
+            'process.env.ASSET_PREFIX': JSON.stringify(assetPrefix),
+          }),
+        )
+        
         return config;
-    }
+    },
+    assetPrefix: assetPrefix,
 };
