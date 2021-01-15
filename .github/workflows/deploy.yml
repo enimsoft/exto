@@ -4,8 +4,9 @@
 name: Deploy
 
 on:
+  workflow_dispatch:
   push:
-    branches: [ master ]
+    branches: [ master, gh-pages-src ]
   pull_request:
     branches: [ master ]
 
