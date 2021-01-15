@@ -3,8 +3,7 @@ const sourcebit = require("sourcebit");
 
 const sourcebitConfig = require("./sourcebit.js");
 const isProd = (process.env.NODE_ENV || 'production') === 'production'
-const basePath = isProd ? '/plugsource' : '';
-const assetPrefix = `${basePath}/`;
+const assetPrefix = isProd ? '/plugsource' : '';
 
 sourcebit.fetch(sourcebitConfig);
 
@@ -42,6 +41,5 @@ module.exports = {
 
     return config;
   },
-  basePath: basePath,
   assetPrefix: assetPrefix,
 };
