@@ -5,8 +5,8 @@ excerpt: >-
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: "2016-08-22"
-thumb_image: plugsource/rce/images/9.jpg
-image: plugsource/rce/images/9.jpg
+thumb_image: plugsource/images
+image: plugsource/images
 layout: post
 ---
 
