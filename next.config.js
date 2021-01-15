@@ -42,5 +42,5 @@ module.exports = {
     return config;
   },
   basePath: assetPrefix,
-  assetPrefix: assetPrefix,
+  // assetPrefix: assetPrefix,
 };
