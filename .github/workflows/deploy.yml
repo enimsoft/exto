@@ -28,6 +28,13 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: CI=false npm ci 
     - run: npm run build
+      
+    - name: Insert .nojekyll in out dir
+      run: |
+        cd out
+        touch .nojekyll
+        cd ..
+        
     - name: Commit and Push 'Out' Directory
       run: |
         git add .
