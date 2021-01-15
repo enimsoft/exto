@@ -2,7 +2,8 @@ const path = require("path");
 const sourcebit = require("sourcebit");
 
 const sourcebitConfig = require("./sourcebit.js");
-const basePath = "/plugsource";
+const isProd = (process.env.NODE_ENV || 'production') === 'production'
+const basePath = isProd ? '/plugsource' : '';
 const assetPrefix = `${basePath}/`;
 
 sourcebit.fetch(sourcebitConfig);
