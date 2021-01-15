@@ -30,7 +30,7 @@ jobs:
     - name: Commit and Push 'Out' Directory
       run: |
         git add .
-        git config --global user.name 'enimsoft'
-        git config --global user.email 'enimsoft@users.noreply.github.com'
-        git commit -am "Automated Build"
+        git config --global user.name 'pd-escher'
+        git config --global user.email 'dhoolia.pranav@gmail.com'
+        git commit -m "Automated Build"
         git push
