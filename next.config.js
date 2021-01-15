@@ -31,5 +31,6 @@ module.exports = {
         // whole page
         config.plugins.push(new webpack.WatchIgnorePlugin([/\/content\//]));
         return config;
-    }
+    },
+    assetPrefix: isProd ? '/plugsource' : '',
 };
