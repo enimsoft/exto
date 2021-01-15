@@ -4,8 +4,9 @@
 name: Deploy
 
 on:
+  workflow_dispatch:
   push:
-    branches: [ master ]
+    branches: [ master, gh-pages-src ]
   pull_request:
     branches: [ master ]
 
@@ -27,10 +28,17 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: CI=false npm ci 
     - run: npm run build
+      
+    - name: Insert .nojekyll in out dir
+      run: |
+        cd out
+        touch .nojekyll
+        cd ..
+        
     - name: Commit and Push 'Out' Directory
       run: |
         git add .
         git config --global user.name 'pd-escher'
         git config --global user.email 'dhoolia.pranav@gmail.com'
         git commit -m "Automated Build"
-        git subtree push --prefix out origin gh-pages
+        git push origin `git subtree split --prefix out gh-pages-src`:gh-pages --force
