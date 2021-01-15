@@ -27,3 +27,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm run build --if-present
+    - name: Commit report
+      run: |
+        git config --global user.name 'enimsoft'
+        git config --global user.email 'enimsoft@users.noreply.github.com'
+        git commit -am "Automated report"
+        git push
