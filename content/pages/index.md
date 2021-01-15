@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: "Hi, I'm Stackbit Exto Portfolio Theme."
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -53,20 +53,20 @@ sections:
     col_number: three
     testimonials:
       - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+        avatar: plugsource/images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
       - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
+        avatar: plugsource/images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
+        avatar: plugsource/images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

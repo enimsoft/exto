@@ -4,9 +4,9 @@ excerpt: >-
   Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
-date: '2016-08-22'
-thumb_image: images/9.jpg
-image: images/9.jpg
+date: "2016-08-22"
+thumb_image: plugsource/images/rce/images/9.jpg
+image: plugsource/images/rce/images/9.jpg
 layout: post
 ---
 

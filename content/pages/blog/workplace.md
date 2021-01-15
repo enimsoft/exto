@@ -3,10 +3,10 @@ title: The Elements of Great Workplace Design
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2019-03-24'
-thumb_image: images/11.jpg
+date: "2019-03-24"
+thumb_image: plugsource/images/11.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
-image: images/11.jpg
+image: plugsource/images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 layout: post
 ---

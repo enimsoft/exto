@@ -1,10 +1,10 @@
 ---
 title: Project Title 4
 subtitle: Optional Project Subtitle
-date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+date: "2019-02-26"
+thumb_image: plugsource/images/rce/images/4_thumb.jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: plugsource/images/rce/images/4.jpg
 image_alt: A table tennis racket on a pink background
 layout: project
 ---
@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
 
->"Designers are meant to be loved, not to be understood." - Margaret Oscar
+> "Designers are meant to be loved, not to be understood." - Margaret Oscar
 
 Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
 
