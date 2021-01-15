@@ -25,11 +25,11 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm install
+    - run: CI=false npm ci 
     - run: npm run build --if-present
     - name: Commit and Push 'Out' Directory
       run: |
-        git pull
+        git add .
         git config --global user.name 'enimsoft'
         git config --global user.email 'enimsoft@users.noreply.github.com'
         git commit -am "Automated Build"
