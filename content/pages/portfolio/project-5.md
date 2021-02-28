@@ -1,8 +1,8 @@
 ---
-title: Project Title 5
-subtitle: Optional Project Subtitle
+title: Gaming
+subtitle: Explore our exclusive gaming experience. You won't find it anywhere else.
 date: "2019-01-05"
-thumb_image: plugsource/images/5_thumb.jpg
+thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: plugsource/images/5.jpg
 image_alt: A white gamepad on a green background

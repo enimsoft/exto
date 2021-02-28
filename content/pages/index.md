@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Exto Portfolio Theme."
+    title: "Luxury, Streetwear, Gaming, Antiques"
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Experience a full range of authentic stuff in India.
     actions:
       - label: Let's talk
         url: /contact
@@ -16,65 +15,53 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: An optional subtitle of the section
+    subtitle: Luxury, Streetwear, Gaming, Antiques
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Luxury
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Service Title
+          Get a full range of luxury items without paying import duties or taxes. Verified by acclaimed brands.
+      - title: Streetwear
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
+          Get the latest trends in streetwear as soon as they drop in the market.
+      - title: Gaming
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          Get a set of collectibles and gaming accessories at a discounted rate.
+      - title: Antiques
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Get limited antique collections at discounted rates. You won't find them anywhere else!
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Hear it from our customers
     col_number: three
     testimonials:
       - author: Sean Salazar
         avatar: plugsource/images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Exto is one of the best brands for luxury. They always have what you want. Also, all the items are verified. Shopping with them has a unique experience. Definitely give it a try you won;t regret it!
       - author: Aubrey Hoover
         avatar: plugsource/images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Their gaming collection is one of the most unique I have seen. They always deliver high quality products and services. I have been a huge fan of their exclusive collection for more than 2 years.
       - author: Deegan Wallace
         avatar: plugsource/images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          I'm a big fan of antiques, and with that being said, Exto has one of the most exclusive antiques collection I have ever seen. They always deliver on time and have the best customer experience. It has been a pleasure buying from Exto.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    subtitle: Always stay updates with the latest trends
     posts_number: 3
     col_number: three
     actions:
