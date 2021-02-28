@@ -2,7 +2,7 @@
 title: Gaming
 subtitle: Explore our exclusive gaming experience. You won't find it anywhere else.
 date: "2019-01-05"
-thumb_image: images/5_thumb.jpg
+thumb_image: exto/images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: exto/images/5.jpg
 image_alt: A white gamepad on a green background

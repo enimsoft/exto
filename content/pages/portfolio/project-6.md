@@ -2,7 +2,7 @@
 title: Retro
 subtitle: Experience the gaming of the 90's
 date: "2018-12-18"
-thumb_image: images/6_thumb.jpg
+thumb_image: exto/images/6_thumb.jpg
 thumb_image_alt: A handheld game console on a yellow background
 image: exto/images/6.jpg
 image_alt: A handheld game console on a yellow background

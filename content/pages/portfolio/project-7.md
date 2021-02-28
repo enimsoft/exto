@@ -2,7 +2,7 @@
 title: Headphones
 subtitle: Explor our headphones collection
 date: "2018-01-15"
-thumb_image: images/7_thumb.jpg
+thumb_image: exto/images/7_thumb.jpg
 thumb_image_alt: A black headphones on a yeallow background
 image: exto/images/7.jpg
 image_alt: A black headphones on a yeallow background
