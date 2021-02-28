@@ -6,9 +6,9 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
   nam libero justo laoreet sit.
 date: "2018-01-11"
-thumb_image: plugsource/images/5.jpg
+thumb_image: exto/images/5.jpg
 thumb_image_alt: A white gamepad on a green background
-image: plugsource/images/5.jpg
+image: exto/images/5.jpg
 image_alt: A white gamepad on a green background
 layout: post
 ---

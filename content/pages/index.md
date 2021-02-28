@@ -44,17 +44,17 @@ sections:
     col_number: three
     testimonials:
       - author: Sean Salazar
-        avatar: plugsource/images/sean_salazar.jpg
+        avatar: exto/images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           Exto is one of the best brands for luxury. They always have what you want. Also, all the items are verified. Shopping with them has a unique experience. Definitely give it a try you won;t regret it!
       - author: Aubrey Hoover
-        avatar: plugsource/images/aubrey_hoover.jpg
+        avatar: exto/images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Their gaming collection is one of the most unique I have seen. They always deliver high quality products and services. I have been a huge fan of their exclusive collection for more than 2 years.
       - author: Deegan Wallace
-        avatar: plugsource/images/deegan_wallace.jpg
+        avatar: exto/images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
           I'm a big fan of antiques, and with that being said, Exto has one of the most exclusive antiques collection I have ever seen. They always deliver on time and have the best customer experience. It has been a pleasure buying from Exto.

@@ -4,7 +4,7 @@ subtitle: Explore our exclusive gaming experience. You won't find it anywhere el
 date: "2019-01-05"
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
-image: plugsource/images/5.jpg
+image: exto/images/5.jpg
 image_alt: A white gamepad on a green background
 layout: project
 ---

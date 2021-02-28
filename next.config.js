@@ -3,7 +3,7 @@ const sourcebit = require("sourcebit");
 
 const sourcebitConfig = require("./sourcebit.js");
 const isProd = (process.env.NODE_ENV || "production") === "production";
-const assetPrefix = isProd ? "/plugsource" : "";
+const assetPrefix = isProd ? "/exto" : "";
 
 sourcebit.fetch(sourcebitConfig);
 
